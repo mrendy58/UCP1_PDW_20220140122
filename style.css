@@ -1,0 +1,16 @@
+body {
+    background-color: #060216;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav {
+    margin-left: 80%; 
+}
+
+.carousel-item img {
+    border-radius: 15px; /* Atur radius menjadi lebih kecil */
+    height: 100vh;
+}
+
+
